@@ -1,10 +1,13 @@
 # 👋 Hi, I’m Filip Jovanov aka fc0d3x
 
+
+## About Me
 ## 🚀 Technology. Security. Solutions.
 
 With a passion for technology, problem-solving, and security, I thrive at the intersection of IT sales, consulting, and cybersecurity. As a Deputy Shop Manager & IT Consultant, I help clients find the best IT solutions—combining technical expertise with a deep understanding of business needs.
 
-But my journey doesn’t stop there. I’m actively expanding my skills in ethical hacking, red teaming, and cybersecurity consulting, aiming to transition into a pentester and red team security expert. My focus? **Finding vulnerabilities before the bad actors do.**
+But my journey doesn’t stop there. I’m actively expanding my skills in ethical hacking, red teaming, and cybersecurity consulting, aiming to transition into a pentester and red team security expert.
+### My focus? **Finding vulnerabilities before the bad actors do.**
 
 ---
 
