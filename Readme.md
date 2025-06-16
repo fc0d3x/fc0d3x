@@ -45,6 +45,7 @@ I’m always looking to learn, collaborate, and grow in cybersecurity. Whether y
 <a href="https://www.linkedin.com/in/filip-jovanov-5835b6237/" target="_blank">
     <img src="https://img.shields.io/badge/FOLLOW-linkedin-blue?logo=linkedin.com" alt="Follow on linkedin.com"/>
 </a>
+
 ---
 
 *“Hacking is not a crime. It’s a passion for solving problems and building a safer digital world.”*
