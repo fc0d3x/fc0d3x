@@ -38,8 +38,13 @@ But my journey doesn’t stop there. I’m actively expanding my skills in ethic
 
 I’m always looking to learn, collaborate, and grow in cybersecurity. Whether you’re in IT sales, security, or AI, let’s share insights and build a stronger network together.
 
-- [GitHub](https://github.com/fc0d3x) [Linkedin](https://www.linkedin.com/in/filip-jovanov-5835b6237/)
-
+- [X](https://x.com/fc0d3x21448)        
+<a href="https://x.com/fc0d3x21448/" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW-%20X-blue?logo=X.com" alt="Follow on X.com"/>
+</a>
+<a href="https://linkedin.com/filip-jovanov-5835b6237/" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW-linkedin-blue?logo=linkedin.com" alt="Follow on linkedin.com"/>
+</a>
 ---
 
 *“Hacking is not a crime. It’s a passion for solving problems and building a safer digital world.”*
