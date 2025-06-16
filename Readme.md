@@ -38,7 +38,7 @@ But my journey doesn’t stop there. I’m actively expanding my skills in ethic
 
 I’m always looking to learn, collaborate, and grow in cybersecurity. Whether you’re in IT sales, security, or AI, let’s share insights and build a stronger network together.
 
-- [X](https://x.com/fc0d3x21448)        
+- [X](https://x.com/fc0d3x21448) [Linkedin](https://www.linkedin.com/in/filip-jovanov-5835b6237/)        
 <a href="https://x.com/fc0d3x21448/" target="_blank">
     <img src="https://img.shields.io/badge/FOLLOW-%20X-blue?logo=X.com" alt="Follow on X.com"/>
 </a>
