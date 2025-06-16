@@ -35,7 +35,7 @@ But my journey doesn’t stop there. I’m actively expanding my skills in ethic
 
 I’m always looking to learn, collaborate, and grow in cybersecurity. Whether you’re in IT sales, security, or AI, let’s share insights and build a stronger network together.
 
-- [GitHub](https://github.com/fc0d3x) https://www.linkedin.com/in/filip-jovanov-5835b6237/
+- [GitHub](https://github.com/fc0d3x) [Linkedin](https://www.linkedin.com/in/filip-jovanov-5835b6237/)
 
 ---
 
