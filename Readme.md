@@ -14,11 +14,11 @@ But my journey doesn’t stop there. I’m actively expanding my skills in ethic
 ## 🛠️ Skills & Tools
 
 - **Languages:** Macedonian, Bulgarian, Serbian, English
-- **Frameworks:** OSINT, Google Dorks,
 - **Creating and Personalizing Specialized GPTs**
+- **Frameworks:** OSINT, Google Dorks
 - **Continuous Learning** (TryHackMe and Hack The Box)
 
-- **Cybersecurity Tools:** nmap, gobuster, dirbuster, nuclei, linpeas, winpeas and more..
+- **Cybersecurity Tools:** nmap, gobuster, dirbuster, hydra, metasploit, nuclei, linpeas, winpeas and more..
 
 ---
 
