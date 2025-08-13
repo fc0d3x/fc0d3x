@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Filip Jovanov aka fc0d3x
+# :~$ whoami
+# 👋 Hi, I’m Filip Jovanov (fc0d3x)
 
 
 ## About Me
