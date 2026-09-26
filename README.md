@@ -1,172 +1,175 @@
-# fc0d3x
-Personal portfolio showcasing my journey and skills in cybersecurity, including hands-on projects, labs, and certifications in both offensive and defensive security.
+```text
+$ ./operator --id fc0d3x --verbose
 
-# Welcome to My Cybersecurity Portfolio
-
-This portfolio showcases my **hands-on experience** and **practical skills** in both **offensive** and **defensive security**. Here, you'll find a collection of:
-- **Cybersecurity projects**, **CTF challenges**, and **lab-based work**
-- **Key certifications** and **training** I’ve completed
-- **Tools & techniques** I’ve mastered through real-world applications
-
-This repository is a reflection of my ongoing journey to becoming a versatile cybersecurity professional.
-
-## About Me
-
-Hello, I'm **Filip (fc0d3x)**, a **cybersecurity enthusiast** with a passion for both **offensive** and **defensive security**. I have hands-on experience working with platforms like **Try Hack Me**, **Burp Suite Academy** and **Hack the Box**, where I've completed over 70 labs focused on **web security**, **privilege escalation**, **Active Directory (AD) attacks**, and much more. 
-
-While my experience is more extensive in **offensive security**, including penetration testing and vulnerability assessments, I am continuously expanding my knowledge in **defensive security** practices as well. My goal is to become a well-rounded cybersecurity professional capable of addressing both attack and defense strategies in real-world engagements.
-
----
-
-## Core Competencies & Technical Skills
-
-### **Cybersecurity Skills**
-- **Offensive Security:** Reconnaissance, enumeration, exploitation, privilege escalation
-- **Defensive Security:** Log analysis, alert triage, firewall configuration, SIEM monitoring
-- **Assessment & Methodology:** Vulnerability assessment, attack surface analysis, basic risk identification
-
----
-
-### **Offensive Security Focus Areas**
-- **Network Enumeration & Exploitation:**  
-  - Scanning, service identification, vulnerability exploitation, privilege escalation
-- **Web Application Security Testing:**  
-  - Manual and automated testing for vulnerabilities (XSS, SQLi, Command Injection..)
-- **Active Directory Enumeration & Attack Paths:**  
-  - Identifying misconfigurations, privilege escalation, lateral movement
-- **Credential Attacks & Privilege Escalation:**  
-  - Brute force, password cracking, cracking hashes, privilege escalation techniques
-
----
-
-### **Defensive Security Skills**
-- **Firewall & Network Security:**  
-  - Configuring and managing network defenses to prevent unauthorized access and mitigate threats.
-- **SIEM & Security Monitoring:**  
-  - Implementing security monitoring systems to detect and respond to security incidents through log analysis and event correlation.
-- **Incident Detection & Response:**  
-  - Identifying potential security breaches, analyzing security events, and responding to incidents to minimize impact.
-- **Security Hardening & Configuration Management:**  
-  - Ensuring systems are securely configured and maintained to protect against vulnerabilities and misconfigurations.
-
----
-
-### **Tools & Frameworks**
-
-- **Recon & Scanning Tools:**  
-  - Nmap, Masscan, Gobuster, Dirbuster, Recon-ng, Aircrack-ng
-
-- **Networking & Enumeration Tools:**  
-  - Wireshark, Netcat, LDAPsearch, SMBclient
-
-- **Active Directory Tools:**  
-  - BloodHound, SharpHound, Mimikatz
-
-- **Password Attacking Tools:**  
-  - Hydra, John the Ripper
-
-- **Web Application Security Tools:**  
-  - Burp Suite, SQLmap, Wfuzz
-
-- **Exploitation & Post-Exploitation Tools:**  
-  - Metasploit, BeEF
-
-- **Vulnerability Scanners:**  
-  - Nessus, OpenVAS
-
-- **Scripting & Automation:**  
-  - Python, Bash, PowerShell
-  
----
-
-### **Additional Topics**
-- **Web Attack Forensics**
-- **Phishing Detection**
-- **Linux CLI**
-- **Password Cracking**
-- **SOC Alert Triage**
-- **Splunk Basics**
-- **IDOR Exploitation**
-- **Prompt Injection**
-- **Web Log Analysis**
-- **Registry Forensics**
-- **Social Engineering**
-- **AI in Security**
-- **ICS/Modbus**
-- **YARA Rules**
-- **C2 Detection**
-- **Obfuscation**
-
----
-
-### **Platforms**
-- **Operating Systems:**  
-  - Windows (Desktop & Server)  
-  - Linux (Kali, Ubuntu, Debian)  
-  - macOS
-
----
-
-### **Networking & Web Security**
-- **Networking Protocols:**  
-  - **TCP/IP**, **DNS**, **HTTP/S**, **SMTP**, **FTP**, **VPN**
-
-### **Web Security**
-- **Standards & Methodologies:**  
-  - OWASP Top 10
-- **Common Web Vulnerabilities:**  
-  - XSS, SQL Injection, Command Injection, CSRF, IDOR
-
----
-
-### **Certifications & Training**
-- Cyber Security and Ethical Hacking
-- IBM Ethical Hacking with Open Source Tools
+> operator:          fc0d3x
+> status:            ACTIVE
+> specialization:    OFFENSIVE SECURITY
+> objective:         THINK. BREAK. LEARN. REPEAT.
 
 
----
+$ whoami
 
-### **Languages**
-- **Bulgarian** (Native)
-- **Macedonian** (Fluent)
-- **English** (Fluent)
-- **Serbian** (Conversational)
+fc0d3x
 
----
 
-### **Additional Skills**
-- **Problem-Solving & Critical Thinking**
-- **Collaboration & Teamwork in Security Environments**
-- **Documentation & Reporting of Security Findings**
+$ ls -la
 
----
+drwxr-xr-x  skills/               # offensive + defensive skills
+drwxr-xr-x  labs/                 # practical training
+drwxr-xr-x  training/             # courses + certifications
+-rw-r--r--  operator.profile      # identity + focus
+-rw-r--r--  web_targets.scope     # web security focus
+-rw-r--r--  network_targets.scope # network + AD focus
+-rwxr-xr-x  toolchain             # tools + platforms
+-rw-r--r--  language.pack         # languages
+-rw-------  connect.secure        # contact channels
 
-## Let's Connect
 
-Feel free to reach out for collaboration, questions, or opportunities in cybersecurity!
+$ cat operator.profile
 
-- **LinkedIn:** (https://www.linkedin.com/in/filip-jovanov-5835b6237/)
-- **Twitter:** (https://x.com/fc0d3x21448)
-- **Email:** filipjovanovv@proton.me
-- **GitHub:** (https://github.com/fc0d3x)
-- **TryHackMe Profile:** (https://tryhackme.com/p/fc0d3x)
+Cybersecurity enthusiast focused on offensive security,
+web exploitation, Active Directory, reconnaissance,
+privilege escalation, and defensive workflows.
 
----
 
-## Labs & Practical Experience
+$ tree skills/
 
-### TryHackMe – Industrial Intrusion
-- Network and service enumeration
-- Identified misconfigurations and weak credentials
-- Gained initial access
-- Privilege escalation to complete objectives
+skills/
+|-- offensive/
+|   |-- reconnaissance
+|   |-- enumeration
+|   |-- web_testing
+|   |-- exploitation
+|   |-- privilege_escalation
+|   |-- active_directory
+|   `-- post_exploitation
+|
+`-- defensive/
+    |-- log_analysis
+    |-- alert_triage
+    |-- siem_fundamentals
+    |-- network_defense
+    |-- hardening
+    `-- threat_detection
 
-### TryHackMe – Hackfinity Battle
-- Mixed web and network challenges
-- Rapid reconnaissance and tool selection
-- Debugging failed exploitation paths
-- Focus on methodology and documentation
 
----
+$ cat web_targets.scope
 
-Thanks for visiting my portfolio!
+[+] XSS
+[+] SQL Injection
+[+] Command Injection
+[+] CSRF
+[+] IDOR
+[+] Authentication flaws
+[+] Access-control weaknesses
+
+
+$ cat network_targets.scope
+
+[+] Service enumeration
+[+] SMB / LDAP workflows
+[+] Active Directory attack paths
+[+] Local privilege escalation
+[+] Misconfiguration discovery
+[+] Lateral movement concepts
+
+
+$ ./toolchain --list
+
+[recon]
+  Shodan
+  Nmap
+  Masscan
+  Gobuster
+  Recon-ng
+  Aircrack-ng
+
+[web]
+  Burp Suite
+  SQLmap
+  Wfuzz
+
+[network]
+  Wireshark
+  Netcat
+  smbclient
+  ldapsearch
+
+[active_directory]
+  BloodHound
+  SharpHound
+  Mimikatz
+
+[password_attacks]
+  Hydra
+  John the Ripper
+
+[exploitation]
+  Metasploit
+  BeEF
+
+[vulnerability_scanning]
+  Nessus
+  OpenVAS
+
+[scripting]
+  Python
+  Bash
+  PowerShell
+
+[platforms]
+  Kali Linux
+  Ubuntu
+  Debian
+  Windows
+  Windows Server
+  macOS
+
+
+$ ls labs/
+
+TryHackMe/
+PortSwigger_Web_Security_Academy/
+Hack_The_Box/
+Home_lab/
+
+$ cat labs/summary.log
+
+[+] 100+ practical labs and exercises
+[+] offensive + defensive security practice
+[+] web + network + Active Directory scenarios
+[+] methodology + documentation focused
+
+highlights:
+  - Industrial Intrusion
+  - Hackfinity Battle
+  - Hacker Holidays 2026
+
+$ ls training/
+
+Cyber_Security_and_Ethical_Hacking
+IBM_Ethical_Hacking_with_Open_Source_Tools
+PortSwigger_Web_Security_Academy
+TryHackMe_Practical_Labs
+Hack_The_Box_Practice
+Home_lab
+
+$ cat language.pack
+
+Bulgarian   : fluent
+Macedonian  : fluent
+English     : fluent
+Serbian     : conversational
+
+
+$ cat connect.secure
+
+GitHub    : https://github.com/fc0d3x
+TryHackMe : https://tryhackme.com/p/fc0d3x
+X         : https://x.com/fc0d3x21448
+Email     : filipjovanovv@proton.me
+
+
+$ echo "THINK. BREAK. LEARN. REPEAT."
+
+THINK. BREAK. LEARN. REPEAT.
